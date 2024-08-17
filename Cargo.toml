@@ -1,0 +1,13 @@
+[package]
+name = "num2en"
+version = "1.0.0"
+edition = "2021"
+description = "For converting integer and decimal numbers into English cardinal or ordinal number words"
+keywords = ["english", "words", "numbers", "cardinal", "ordinal"]
+categories = ["text-processing", "value-formatting"]
+authors = ["Simon Sovič <open-source@strigido.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "TODO"
+rust-version = "1.56.1" # determined by cargo-msrv
+exclude = ["testdata"]

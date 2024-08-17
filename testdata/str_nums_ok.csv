@@ -1,0 +1,24 @@
+0;zero
+-0;negative zero
+.0;point zero
+-.0;negative point zero
+0.0;zero point zero
+0.23152568674264370329239859847800258;zero point two three one five two five six eight six seven four two six four three seven zero three two nine two three nine eight five nine eight four seven eight zero zero two five eight
+.23152568674264370329239859847800258;point two three one five two five six eight six seven four two six four three seven zero three two nine two three nine eight five nine eight four seven eight zero zero two five eight
+1252535;one million two hundred fifty-two thousand five hundred thirty-five
+1252535.;one million two hundred fifty-two thousand five hundred thirty-five point
+1252535.0;one million two hundred fifty-two thousand five hundred thirty-five point zero
+1252535.00;one million two hundred fifty-two thousand five hundred thirty-five point zero zero
+1252535.00125;one million two hundred fifty-two thousand five hundred thirty-five point zero zero one two five
+-0.23152568674264370329239859847800258;negative zero point two three one five two five six eight six seven four two six four three seven zero three two nine two three nine eight five nine eight four seven eight zero zero two five eight
+-.23152568674264370329239859847800258;negative point two three one five two five six eight six seven four two six four three seven zero three two nine two three nine eight five nine eight four seven eight zero zero two five eight
+-1252535;negative one million two hundred fifty-two thousand five hundred thirty-five
+-1252535.;negative one million two hundred fifty-two thousand five hundred thirty-five point
+-1252535.0;negative one million two hundred fifty-two thousand five hundred thirty-five point zero
+-1252535.00;negative one million two hundred fifty-two thousand five hundred thirty-five point zero zero
+-1252535.00125;negative one million two hundred fifty-two thousand five hundred thirty-five point zero zero one two five
+340282366920938463463374607431768211454;three hundred forty undecillion two hundred eighty-two decillion three hundred sixty-six nonillion nine hundred twenty octillion nine hundred thirty-eight septillion four hundred sixty-three sextillion four hundred sixty-three quintillion three hundred seventy-four quadrillion six hundred seven trillion four hundred thirty-one billion seven hundred sixty-eight million two hundred eleven thousand four hundred fifty-four
+340282366920938463463374607431768211455;three hundred forty undecillion two hundred eighty-two decillion three hundred sixty-six nonillion nine hundred twenty octillion nine hundred thirty-eight septillion four hundred sixty-three sextillion four hundred sixty-three quintillion three hundred seventy-four quadrillion six hundred seven trillion four hundred thirty-one billion seven hundred sixty-eight million two hundred eleven thousand four hundred fifty-five
+340282366920938463463374607431768211455.999999999999999999;three hundred forty undecillion two hundred eighty-two decillion three hundred sixty-six nonillion nine hundred twenty octillion nine hundred thirty-eight septillion four hundred sixty-three sextillion four hundred sixty-three quintillion three hundred seventy-four quadrillion six hundred seven trillion four hundred thirty-one billion seven hundred sixty-eight million two hundred eleven thousand four hundred fifty-five point nine nine nine nine nine nine nine nine nine nine nine nine nine nine nine nine nine nine
+-340282366920938463463374607431768211455.999999999999999999;negative three hundred forty undecillion two hundred eighty-two decillion three hundred sixty-six nonillion nine hundred twenty octillion nine hundred thirty-eight septillion four hundred sixty-three sextillion four hundred sixty-three quintillion three hundred seventy-four quadrillion six hundred seven trillion four hundred thirty-one billion seven hundred sixty-eight million two hundred eleven thousand four hundred fifty-five point nine nine nine nine nine nine nine nine nine nine nine nine nine nine nine nine nine nine
+;;(an empty input string should result in an empty output string)

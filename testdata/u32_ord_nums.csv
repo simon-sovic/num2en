@@ -1,0 +1,803 @@
+0;zeroth
+1;first
+2;second
+3;third
+4;fourth
+5;fifth
+6;sixth
+7;seventh
+8;eighth
+9;ninth
+10;tenth
+11;eleventh
+12;twelfth
+13;thirteenth
+14;fourteenth
+15;fifteenth
+16;sixteenth
+17;seventeenth
+18;eighteenth
+19;nineteenth
+20;twentieth
+21;twenty-first
+22;twenty-second
+23;twenty-third
+24;twenty-fourth
+25;twenty-fifth
+26;twenty-sixth
+27;twenty-seventh
+28;twenty-eighth
+29;twenty-ninth
+30;thirtieth
+31;thirty-first
+32;thirty-second
+33;thirty-third
+34;thirty-fourth
+35;thirty-fifth
+36;thirty-sixth
+37;thirty-seventh
+38;thirty-eighth
+39;thirty-ninth
+40;fortieth
+41;forty-first
+42;forty-second
+43;forty-third
+44;forty-fourth
+45;forty-fifth
+46;forty-sixth
+47;forty-seventh
+48;forty-eighth
+49;forty-ninth
+50;fiftieth
+51;fifty-first
+52;fifty-second
+53;fifty-third
+54;fifty-fourth
+55;fifty-fifth
+56;fifty-sixth
+57;fifty-seventh
+58;fifty-eighth
+59;fifty-ninth
+60;sixtieth
+61;sixty-first
+62;sixty-second
+63;sixty-third
+64;sixty-fourth
+65;sixty-fifth
+66;sixty-sixth
+67;sixty-seventh
+68;sixty-eighth
+69;sixty-ninth
+70;seventieth
+71;seventy-first
+72;seventy-second
+73;seventy-third
+74;seventy-fourth
+75;seventy-fifth
+76;seventy-sixth
+77;seventy-seventh
+78;seventy-eighth
+79;seventy-ninth
+80;eightieth
+81;eighty-first
+82;eighty-second
+83;eighty-third
+84;eighty-fourth
+85;eighty-fifth
+86;eighty-sixth
+87;eighty-seventh
+88;eighty-eighth
+89;eighty-ninth
+90;ninetieth
+91;ninety-first
+92;ninety-second
+93;ninety-third
+94;ninety-fourth
+95;ninety-fifth
+96;ninety-sixth
+97;ninety-seventh
+98;ninety-eighth
+99;ninety-ninth
+100;one hundredth
+101;one hundred first
+102;one hundred second
+103;one hundred third
+104;one hundred fourth
+105;one hundred fifth
+106;one hundred sixth
+107;one hundred seventh
+108;one hundred eighth
+109;one hundred ninth
+110;one hundred tenth
+111;one hundred eleventh
+112;one hundred twelfth
+113;one hundred thirteenth
+114;one hundred fourteenth
+115;one hundred fifteenth
+116;one hundred sixteenth
+117;one hundred seventeenth
+118;one hundred eighteenth
+119;one hundred nineteenth
+120;one hundred twentieth
+121;one hundred twenty-first
+122;one hundred twenty-second
+123;one hundred twenty-third
+124;one hundred twenty-fourth
+125;one hundred twenty-fifth
+126;one hundred twenty-sixth
+127;one hundred twenty-seventh
+128;one hundred twenty-eighth
+129;one hundred twenty-ninth
+130;one hundred thirtieth
+131;one hundred thirty-first
+132;one hundred thirty-second
+133;one hundred thirty-third
+134;one hundred thirty-fourth
+135;one hundred thirty-fifth
+136;one hundred thirty-sixth
+137;one hundred thirty-seventh
+138;one hundred thirty-eighth
+139;one hundred thirty-ninth
+140;one hundred fortieth
+141;one hundred forty-first
+142;one hundred forty-second
+143;one hundred forty-third
+144;one hundred forty-fourth
+145;one hundred forty-fifth
+146;one hundred forty-sixth
+147;one hundred forty-seventh
+148;one hundred forty-eighth
+149;one hundred forty-ninth
+150;one hundred fiftieth
+151;one hundred fifty-first
+152;one hundred fifty-second
+153;one hundred fifty-third
+154;one hundred fifty-fourth
+155;one hundred fifty-fifth
+156;one hundred fifty-sixth
+157;one hundred fifty-seventh
+158;one hundred fifty-eighth
+159;one hundred fifty-ninth
+160;one hundred sixtieth
+161;one hundred sixty-first
+162;one hundred sixty-second
+163;one hundred sixty-third
+164;one hundred sixty-fourth
+165;one hundred sixty-fifth
+166;one hundred sixty-sixth
+167;one hundred sixty-seventh
+168;one hundred sixty-eighth
+169;one hundred sixty-ninth
+170;one hundred seventieth
+171;one hundred seventy-first
+172;one hundred seventy-second
+173;one hundred seventy-third
+174;one hundred seventy-fourth
+175;one hundred seventy-fifth
+176;one hundred seventy-sixth
+177;one hundred seventy-seventh
+178;one hundred seventy-eighth
+179;one hundred seventy-ninth
+180;one hundred eightieth
+181;one hundred eighty-first
+182;one hundred eighty-second
+183;one hundred eighty-third
+184;one hundred eighty-fourth
+185;one hundred eighty-fifth
+186;one hundred eighty-sixth
+187;one hundred eighty-seventh
+188;one hundred eighty-eighth
+189;one hundred eighty-ninth
+190;one hundred ninetieth
+191;one hundred ninety-first
+192;one hundred ninety-second
+193;one hundred ninety-third
+194;one hundred ninety-fourth
+195;one hundred ninety-fifth
+196;one hundred ninety-sixth
+197;one hundred ninety-seventh
+198;one hundred ninety-eighth
+199;one hundred ninety-ninth
+200;two hundredth
+201;two hundred first
+202;two hundred second
+203;two hundred third
+204;two hundred fourth
+205;two hundred fifth
+206;two hundred sixth
+207;two hundred seventh
+208;two hundred eighth
+209;two hundred ninth
+210;two hundred tenth
+211;two hundred eleventh
+212;two hundred twelfth
+213;two hundred thirteenth
+214;two hundred fourteenth
+215;two hundred fifteenth
+216;two hundred sixteenth
+217;two hundred seventeenth
+218;two hundred eighteenth
+219;two hundred nineteenth
+220;two hundred twentieth
+221;two hundred twenty-first
+222;two hundred twenty-second
+223;two hundred twenty-third
+224;two hundred twenty-fourth
+225;two hundred twenty-fifth
+226;two hundred twenty-sixth
+227;two hundred twenty-seventh
+228;two hundred twenty-eighth
+229;two hundred twenty-ninth
+230;two hundred thirtieth
+231;two hundred thirty-first
+232;two hundred thirty-second
+233;two hundred thirty-third
+234;two hundred thirty-fourth
+235;two hundred thirty-fifth
+236;two hundred thirty-sixth
+237;two hundred thirty-seventh
+238;two hundred thirty-eighth
+239;two hundred thirty-ninth
+240;two hundred fortieth
+241;two hundred forty-first
+242;two hundred forty-second
+243;two hundred forty-third
+244;two hundred forty-fourth
+245;two hundred forty-fifth
+246;two hundred forty-sixth
+247;two hundred forty-seventh
+248;two hundred forty-eighth
+249;two hundred forty-ninth
+250;two hundred fiftieth
+251;two hundred fifty-first
+252;two hundred fifty-second
+253;two hundred fifty-third
+254;two hundred fifty-fourth
+255;two hundred fifty-fifth
+999;nine hundred ninety-ninth
+1000;one thousandth
+1001;one thousand first
+1002;one thousand second
+1003;one thousand third
+1004;one thousand fourth
+1005;one thousand fifth
+1006;one thousand sixth
+1007;one thousand seventh
+1008;one thousand eighth
+1009;one thousand ninth
+1010;one thousand tenth
+1011;one thousand eleventh
+1012;one thousand twelfth
+1013;one thousand thirteenth
+1014;one thousand fourteenth
+1015;one thousand fifteenth
+1016;one thousand sixteenth
+1017;one thousand seventeenth
+1018;one thousand eighteenth
+1019;one thousand nineteenth
+1020;one thousand twentieth
+1021;one thousand twenty-first
+1022;one thousand twenty-second
+1023;one thousand twenty-third
+1024;one thousand twenty-fourth
+1025;one thousand twenty-fifth
+1026;one thousand twenty-sixth
+1027;one thousand twenty-seventh
+1028;one thousand twenty-eighth
+1029;one thousand twenty-ninth
+1030;one thousand thirtieth
+1031;one thousand thirty-first
+1032;one thousand thirty-second
+1033;one thousand thirty-third
+1034;one thousand thirty-fourth
+1035;one thousand thirty-fifth
+1036;one thousand thirty-sixth
+1037;one thousand thirty-seventh
+1038;one thousand thirty-eighth
+1039;one thousand thirty-ninth
+1040;one thousand fortieth
+1041;one thousand forty-first
+1042;one thousand forty-second
+1043;one thousand forty-third
+1044;one thousand forty-fourth
+1045;one thousand forty-fifth
+1046;one thousand forty-sixth
+1047;one thousand forty-seventh
+1048;one thousand forty-eighth
+1049;one thousand forty-ninth
+1050;one thousand fiftieth
+1051;one thousand fifty-first
+1052;one thousand fifty-second
+1053;one thousand fifty-third
+1054;one thousand fifty-fourth
+1055;one thousand fifty-fifth
+1056;one thousand fifty-sixth
+1057;one thousand fifty-seventh
+1058;one thousand fifty-eighth
+1059;one thousand fifty-ninth
+1060;one thousand sixtieth
+1061;one thousand sixty-first
+1062;one thousand sixty-second
+1063;one thousand sixty-third
+1064;one thousand sixty-fourth
+1065;one thousand sixty-fifth
+1066;one thousand sixty-sixth
+1067;one thousand sixty-seventh
+1068;one thousand sixty-eighth
+1069;one thousand sixty-ninth
+1070;one thousand seventieth
+1071;one thousand seventy-first
+1072;one thousand seventy-second
+1073;one thousand seventy-third
+1074;one thousand seventy-fourth
+1075;one thousand seventy-fifth
+1076;one thousand seventy-sixth
+1077;one thousand seventy-seventh
+1078;one thousand seventy-eighth
+1079;one thousand seventy-ninth
+1080;one thousand eightieth
+1081;one thousand eighty-first
+1082;one thousand eighty-second
+1083;one thousand eighty-third
+1084;one thousand eighty-fourth
+1085;one thousand eighty-fifth
+1086;one thousand eighty-sixth
+1087;one thousand eighty-seventh
+1088;one thousand eighty-eighth
+1089;one thousand eighty-ninth
+1090;one thousand ninetieth
+1091;one thousand ninety-first
+1092;one thousand ninety-second
+1093;one thousand ninety-third
+1094;one thousand ninety-fourth
+1095;one thousand ninety-fifth
+1096;one thousand ninety-sixth
+1097;one thousand ninety-seventh
+1098;one thousand ninety-eighth
+1099;one thousand ninety-ninth
+1100;one thousand one hundredth
+1101;one thousand one hundred first
+1102;one thousand one hundred second
+1103;one thousand one hundred third
+1104;one thousand one hundred fourth
+1105;one thousand one hundred fifth
+1106;one thousand one hundred sixth
+1107;one thousand one hundred seventh
+1108;one thousand one hundred eighth
+1109;one thousand one hundred ninth
+1110;one thousand one hundred tenth
+1111;one thousand one hundred eleventh
+1112;one thousand one hundred twelfth
+1113;one thousand one hundred thirteenth
+1114;one thousand one hundred fourteenth
+1115;one thousand one hundred fifteenth
+1116;one thousand one hundred sixteenth
+1117;one thousand one hundred seventeenth
+1118;one thousand one hundred eighteenth
+1119;one thousand one hundred nineteenth
+1120;one thousand one hundred twentieth
+1121;one thousand one hundred twenty-first
+1122;one thousand one hundred twenty-second
+1123;one thousand one hundred twenty-third
+1124;one thousand one hundred twenty-fourth
+1125;one thousand one hundred twenty-fifth
+1126;one thousand one hundred twenty-sixth
+1127;one thousand one hundred twenty-seventh
+1128;one thousand one hundred twenty-eighth
+1129;one thousand one hundred twenty-ninth
+1130;one thousand one hundred thirtieth
+1131;one thousand one hundred thirty-first
+1132;one thousand one hundred thirty-second
+1133;one thousand one hundred thirty-third
+1134;one thousand one hundred thirty-fourth
+1135;one thousand one hundred thirty-fifth
+1136;one thousand one hundred thirty-sixth
+1137;one thousand one hundred thirty-seventh
+1138;one thousand one hundred thirty-eighth
+1139;one thousand one hundred thirty-ninth
+1140;one thousand one hundred fortieth
+1141;one thousand one hundred forty-first
+1142;one thousand one hundred forty-second
+1143;one thousand one hundred forty-third
+1144;one thousand one hundred forty-fourth
+1145;one thousand one hundred forty-fifth
+1146;one thousand one hundred forty-sixth
+1147;one thousand one hundred forty-seventh
+1148;one thousand one hundred forty-eighth
+1149;one thousand one hundred forty-ninth
+1150;one thousand one hundred fiftieth
+1151;one thousand one hundred fifty-first
+1152;one thousand one hundred fifty-second
+1153;one thousand one hundred fifty-third
+1154;one thousand one hundred fifty-fourth
+1155;one thousand one hundred fifty-fifth
+1156;one thousand one hundred fifty-sixth
+1157;one thousand one hundred fifty-seventh
+1158;one thousand one hundred fifty-eighth
+1159;one thousand one hundred fifty-ninth
+1160;one thousand one hundred sixtieth
+1161;one thousand one hundred sixty-first
+1162;one thousand one hundred sixty-second
+1163;one thousand one hundred sixty-third
+1164;one thousand one hundred sixty-fourth
+1165;one thousand one hundred sixty-fifth
+1166;one thousand one hundred sixty-sixth
+1167;one thousand one hundred sixty-seventh
+1168;one thousand one hundred sixty-eighth
+1169;one thousand one hundred sixty-ninth
+1170;one thousand one hundred seventieth
+1171;one thousand one hundred seventy-first
+1172;one thousand one hundred seventy-second
+1173;one thousand one hundred seventy-third
+1174;one thousand one hundred seventy-fourth
+1175;one thousand one hundred seventy-fifth
+1176;one thousand one hundred seventy-sixth
+1177;one thousand one hundred seventy-seventh
+1178;one thousand one hundred seventy-eighth
+1179;one thousand one hundred seventy-ninth
+1180;one thousand one hundred eightieth
+1181;one thousand one hundred eighty-first
+1182;one thousand one hundred eighty-second
+1183;one thousand one hundred eighty-third
+1184;one thousand one hundred eighty-fourth
+1185;one thousand one hundred eighty-fifth
+1186;one thousand one hundred eighty-sixth
+1187;one thousand one hundred eighty-seventh
+1188;one thousand one hundred eighty-eighth
+1189;one thousand one hundred eighty-ninth
+1190;one thousand one hundred ninetieth
+1191;one thousand one hundred ninety-first
+1192;one thousand one hundred ninety-second
+1193;one thousand one hundred ninety-third
+1194;one thousand one hundred ninety-fourth
+1195;one thousand one hundred ninety-fifth
+1196;one thousand one hundred ninety-sixth
+1197;one thousand one hundred ninety-seventh
+1198;one thousand one hundred ninety-eighth
+1199;one thousand one hundred ninety-ninth
+1200;one thousand two hundredth
+1201;one thousand two hundred first
+1202;one thousand two hundred second
+1203;one thousand two hundred third
+1204;one thousand two hundred fourth
+1205;one thousand two hundred fifth
+1206;one thousand two hundred sixth
+1207;one thousand two hundred seventh
+1208;one thousand two hundred eighth
+1209;one thousand two hundred ninth
+1210;one thousand two hundred tenth
+1211;one thousand two hundred eleventh
+1212;one thousand two hundred twelfth
+1213;one thousand two hundred thirteenth
+1214;one thousand two hundred fourteenth
+1215;one thousand two hundred fifteenth
+1216;one thousand two hundred sixteenth
+1217;one thousand two hundred seventeenth
+1218;one thousand two hundred eighteenth
+1219;one thousand two hundred nineteenth
+1220;one thousand two hundred twentieth
+1221;one thousand two hundred twenty-first
+1222;one thousand two hundred twenty-second
+1223;one thousand two hundred twenty-third
+1224;one thousand two hundred twenty-fourth
+1225;one thousand two hundred twenty-fifth
+1226;one thousand two hundred twenty-sixth
+1227;one thousand two hundred twenty-seventh
+1228;one thousand two hundred twenty-eighth
+1229;one thousand two hundred twenty-ninth
+1230;one thousand two hundred thirtieth
+1231;one thousand two hundred thirty-first
+1232;one thousand two hundred thirty-second
+1233;one thousand two hundred thirty-third
+1234;one thousand two hundred thirty-fourth
+1235;one thousand two hundred thirty-fifth
+1236;one thousand two hundred thirty-sixth
+1237;one thousand two hundred thirty-seventh
+1238;one thousand two hundred thirty-eighth
+1239;one thousand two hundred thirty-ninth
+1240;one thousand two hundred fortieth
+1241;one thousand two hundred forty-first
+1242;one thousand two hundred forty-second
+1243;one thousand two hundred forty-third
+1244;one thousand two hundred forty-fourth
+1245;one thousand two hundred forty-fifth
+1246;one thousand two hundred forty-sixth
+1247;one thousand two hundred forty-seventh
+1248;one thousand two hundred forty-eighth
+1249;one thousand two hundred forty-ninth
+1250;one thousand two hundred fiftieth
+1251;one thousand two hundred fifty-first
+1252;one thousand two hundred fifty-second
+1253;one thousand two hundred fifty-third
+1254;one thousand two hundred fifty-fourth
+1255;one thousand two hundred fifty-fifth
+3000;three thousandth
+4000;four thousandth
+5000;five thousandth
+6000;six thousandth
+7000;seven thousandth
+8000;eight thousandth
+9000;nine thousandth
+10000;ten thousandth
+11000;eleven thousandth
+12000;twelve thousandth
+13000;thirteen thousandth
+14000;fourteen thousandth
+15000;fifteen thousandth
+15999;fifteen thousand nine hundred ninety-ninth
+16000;sixteen thousandth
+16001;sixteen thousand first
+16002;sixteen thousand second
+16003;sixteen thousand third
+16004;sixteen thousand fourth
+65534;sixty-five thousand five hundred thirty-fourth
+65535;sixty-five thousand five hundred thirty-fifth
+65536;sixty-five thousand five hundred thirty-sixth
+222223;two hundred twenty-two thousand two hundred twenty-third
+1000000;one millionth
+1000005;one million fifth
+1150042;one million one hundred fifty thousand forty-second
+2000000;two millionth
+2000001;two million first
+9000000;nine millionth
+18000000;eighteen millionth
+100000000;one hundred millionth
+1000000000;one billionth
+1000000001;one billion first
+1000000002;one billion second
+1000000003;one billion third
+1000000004;one billion fourth
+1000000005;one billion fifth
+1000000006;one billion sixth
+1000000007;one billion seventh
+1000000008;one billion eighth
+1000000009;one billion ninth
+1000000010;one billion tenth
+1000000011;one billion eleventh
+1000000012;one billion twelfth
+1000000013;one billion thirteenth
+1000000014;one billion fourteenth
+1000000015;one billion fifteenth
+1000000016;one billion sixteenth
+1000000017;one billion seventeenth
+1000000018;one billion eighteenth
+1000000019;one billion nineteenth
+1000000020;one billion twentieth
+1000000021;one billion twenty-first
+1000000022;one billion twenty-second
+1000000023;one billion twenty-third
+1000000024;one billion twenty-fourth
+1000000025;one billion twenty-fifth
+1000000026;one billion twenty-sixth
+1000000027;one billion twenty-seventh
+1000000028;one billion twenty-eighth
+1000000029;one billion twenty-ninth
+1000000030;one billion thirtieth
+1000000031;one billion thirty-first
+1000000032;one billion thirty-second
+1000000033;one billion thirty-third
+1000000034;one billion thirty-fourth
+1000000035;one billion thirty-fifth
+1000000036;one billion thirty-sixth
+1000000037;one billion thirty-seventh
+1000000038;one billion thirty-eighth
+1000000039;one billion thirty-ninth
+1000000040;one billion fortieth
+1000000041;one billion forty-first
+1000000042;one billion forty-second
+1000000043;one billion forty-third
+1000000044;one billion forty-fourth
+1000000045;one billion forty-fifth
+1000000046;one billion forty-sixth
+1000000047;one billion forty-seventh
+1000000048;one billion forty-eighth
+1000000049;one billion forty-ninth
+1000000050;one billion fiftieth
+1000000051;one billion fifty-first
+1000000052;one billion fifty-second
+1000000053;one billion fifty-third
+1000000054;one billion fifty-fourth
+1000000055;one billion fifty-fifth
+1000000056;one billion fifty-sixth
+1000000057;one billion fifty-seventh
+1000000058;one billion fifty-eighth
+1000000059;one billion fifty-ninth
+1000000060;one billion sixtieth
+1000000061;one billion sixty-first
+1000000062;one billion sixty-second
+1000000063;one billion sixty-third
+1000000064;one billion sixty-fourth
+1000000065;one billion sixty-fifth
+1000000066;one billion sixty-sixth
+1000000067;one billion sixty-seventh
+1000000068;one billion sixty-eighth
+1000000069;one billion sixty-ninth
+1000000070;one billion seventieth
+1000000071;one billion seventy-first
+1000000072;one billion seventy-second
+1000000073;one billion seventy-third
+1000000074;one billion seventy-fourth
+1000000075;one billion seventy-fifth
+1000000076;one billion seventy-sixth
+1000000077;one billion seventy-seventh
+1000000078;one billion seventy-eighth
+1000000079;one billion seventy-ninth
+1000000080;one billion eightieth
+1000000081;one billion eighty-first
+1000000082;one billion eighty-second
+1000000083;one billion eighty-third
+1000000084;one billion eighty-fourth
+1000000085;one billion eighty-fifth
+1000000086;one billion eighty-sixth
+1000000087;one billion eighty-seventh
+1000000088;one billion eighty-eighth
+1000000089;one billion eighty-ninth
+1000000090;one billion ninetieth
+1000000091;one billion ninety-first
+1000000092;one billion ninety-second
+1000000093;one billion ninety-third
+1000000094;one billion ninety-fourth
+1000000095;one billion ninety-fifth
+1000000096;one billion ninety-sixth
+1000000097;one billion ninety-seventh
+1000000098;one billion ninety-eighth
+1000000099;one billion ninety-ninth
+1000000100;one billion one hundredth
+1000000101;one billion one hundred first
+1000000102;one billion one hundred second
+1000000103;one billion one hundred third
+1000000104;one billion one hundred fourth
+1000000105;one billion one hundred fifth
+1000000106;one billion one hundred sixth
+1000000107;one billion one hundred seventh
+1000000108;one billion one hundred eighth
+1000000109;one billion one hundred ninth
+1000000110;one billion one hundred tenth
+1000000111;one billion one hundred eleventh
+1000000112;one billion one hundred twelfth
+1000000113;one billion one hundred thirteenth
+1000000114;one billion one hundred fourteenth
+1000000115;one billion one hundred fifteenth
+1000000116;one billion one hundred sixteenth
+1000000117;one billion one hundred seventeenth
+1000000118;one billion one hundred eighteenth
+1000000119;one billion one hundred nineteenth
+1000000120;one billion one hundred twentieth
+1000000121;one billion one hundred twenty-first
+1000000122;one billion one hundred twenty-second
+1000000123;one billion one hundred twenty-third
+1000000124;one billion one hundred twenty-fourth
+1000000125;one billion one hundred twenty-fifth
+1000000126;one billion one hundred twenty-sixth
+1000000127;one billion one hundred twenty-seventh
+1000000128;one billion one hundred twenty-eighth
+1000000129;one billion one hundred twenty-ninth
+1000000130;one billion one hundred thirtieth
+1000000131;one billion one hundred thirty-first
+1000000132;one billion one hundred thirty-second
+1000000133;one billion one hundred thirty-third
+1000000134;one billion one hundred thirty-fourth
+1000000135;one billion one hundred thirty-fifth
+1000000136;one billion one hundred thirty-sixth
+1000000137;one billion one hundred thirty-seventh
+1000000138;one billion one hundred thirty-eighth
+1000000139;one billion one hundred thirty-ninth
+1000000140;one billion one hundred fortieth
+1000000141;one billion one hundred forty-first
+1000000142;one billion one hundred forty-second
+1000000143;one billion one hundred forty-third
+1000000144;one billion one hundred forty-fourth
+1000000145;one billion one hundred forty-fifth
+1000000146;one billion one hundred forty-sixth
+1000000147;one billion one hundred forty-seventh
+1000000148;one billion one hundred forty-eighth
+1000000149;one billion one hundred forty-ninth
+1000000150;one billion one hundred fiftieth
+1000000151;one billion one hundred fifty-first
+1000000152;one billion one hundred fifty-second
+1000000153;one billion one hundred fifty-third
+1000000154;one billion one hundred fifty-fourth
+1000000155;one billion one hundred fifty-fifth
+1000000156;one billion one hundred fifty-sixth
+1000000157;one billion one hundred fifty-seventh
+1000000158;one billion one hundred fifty-eighth
+1000000159;one billion one hundred fifty-ninth
+1000000160;one billion one hundred sixtieth
+1000000161;one billion one hundred sixty-first
+1000000162;one billion one hundred sixty-second
+1000000163;one billion one hundred sixty-third
+1000000164;one billion one hundred sixty-fourth
+1000000165;one billion one hundred sixty-fifth
+1000000166;one billion one hundred sixty-sixth
+1000000167;one billion one hundred sixty-seventh
+1000000168;one billion one hundred sixty-eighth
+1000000169;one billion one hundred sixty-ninth
+1000000170;one billion one hundred seventieth
+1000000171;one billion one hundred seventy-first
+1000000172;one billion one hundred seventy-second
+1000000173;one billion one hundred seventy-third
+1000000174;one billion one hundred seventy-fourth
+1000000175;one billion one hundred seventy-fifth
+1000000176;one billion one hundred seventy-sixth
+1000000177;one billion one hundred seventy-seventh
+1000000178;one billion one hundred seventy-eighth
+1000000179;one billion one hundred seventy-ninth
+1000000180;one billion one hundred eightieth
+1000000181;one billion one hundred eighty-first
+1000000182;one billion one hundred eighty-second
+1000000183;one billion one hundred eighty-third
+1000000184;one billion one hundred eighty-fourth
+1000000185;one billion one hundred eighty-fifth
+1000000186;one billion one hundred eighty-sixth
+1000000187;one billion one hundred eighty-seventh
+1000000188;one billion one hundred eighty-eighth
+1000000189;one billion one hundred eighty-ninth
+1000000190;one billion one hundred ninetieth
+1000000191;one billion one hundred ninety-first
+1000000192;one billion one hundred ninety-second
+1000000193;one billion one hundred ninety-third
+1000000194;one billion one hundred ninety-fourth
+1000000195;one billion one hundred ninety-fifth
+1000000196;one billion one hundred ninety-sixth
+1000000197;one billion one hundred ninety-seventh
+1000000198;one billion one hundred ninety-eighth
+1000000199;one billion one hundred ninety-ninth
+1000000200;one billion two hundredth
+1000000201;one billion two hundred first
+1000000202;one billion two hundred second
+1000000203;one billion two hundred third
+1000000204;one billion two hundred fourth
+1000000205;one billion two hundred fifth
+1000000206;one billion two hundred sixth
+1000000207;one billion two hundred seventh
+1000000208;one billion two hundred eighth
+1000000209;one billion two hundred ninth
+1000000210;one billion two hundred tenth
+1000000211;one billion two hundred eleventh
+1000000212;one billion two hundred twelfth
+1000000213;one billion two hundred thirteenth
+1000000214;one billion two hundred fourteenth
+1000000215;one billion two hundred fifteenth
+1000000216;one billion two hundred sixteenth
+1000000217;one billion two hundred seventeenth
+1000000218;one billion two hundred eighteenth
+1000000219;one billion two hundred nineteenth
+1000000220;one billion two hundred twentieth
+1000000221;one billion two hundred twenty-first
+1000000222;one billion two hundred twenty-second
+1000000223;one billion two hundred twenty-third
+1000000224;one billion two hundred twenty-fourth
+1000000225;one billion two hundred twenty-fifth
+1000000226;one billion two hundred twenty-sixth
+1000000227;one billion two hundred twenty-seventh
+1000000228;one billion two hundred twenty-eighth
+1000000229;one billion two hundred twenty-ninth
+1000000230;one billion two hundred thirtieth
+1000000231;one billion two hundred thirty-first
+1000000232;one billion two hundred thirty-second
+1000000233;one billion two hundred thirty-third
+1000000234;one billion two hundred thirty-fourth
+1000000235;one billion two hundred thirty-fifth
+1000000236;one billion two hundred thirty-sixth
+1000000237;one billion two hundred thirty-seventh
+1000000238;one billion two hundred thirty-eighth
+1000000239;one billion two hundred thirty-ninth
+1000000240;one billion two hundred fortieth
+1000000241;one billion two hundred forty-first
+1000000242;one billion two hundred forty-second
+1000000243;one billion two hundred forty-third
+1000000244;one billion two hundred forty-fourth
+1000000245;one billion two hundred forty-fifth
+1000000246;one billion two hundred forty-sixth
+1000000247;one billion two hundred forty-seventh
+1000000248;one billion two hundred forty-eighth
+1000000249;one billion two hundred forty-ninth
+1000000250;one billion two hundred fiftieth
+1000000251;one billion two hundred fifty-first
+1000000252;one billion two hundred fifty-second
+1000000253;one billion two hundred fifty-third
+1000000254;one billion two hundred fifty-fourth
+1000000255;one billion two hundred fifty-fifth
+1234567890;one billion two hundred thirty-four million five hundred sixty-seven thousand eight hundred ninetieth
+4294967294;four billion two hundred ninety-four million nine hundred sixty-seven thousand two hundred ninety-fourth
+4294967295;four billion two hundred ninety-four million nine hundred sixty-seven thousand two hundred ninety-fifth

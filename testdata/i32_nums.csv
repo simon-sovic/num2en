@@ -1,0 +1,327 @@
+0;zero
+1;one
+2;two
+3;three
+4;four
+5;five
+6;six
+7;seven
+8;eight
+9;nine
+10;ten
+11;eleven
+12;twelve
+13;thirteen
+14;fourteen
+15;fifteen
+16;sixteen
+17;seventeen
+18;eighteen
+19;nineteen
+20;twenty
+21;twenty-one
+22;twenty-two
+23;twenty-three
+24;twenty-four
+25;twenty-five
+26;twenty-six
+27;twenty-seven
+28;twenty-eight
+29;twenty-nine
+30;thirty
+99;ninety-nine
+100;one hundred
+101;one hundred one
+102;one hundred two
+112;one hundred twelve
+148;one hundred forty-eight
+256;two hundred fifty-six
+389;three hundred eighty-nine
+491;four hundred ninety-one
+533;five hundred thirty-three
+666;six hundred sixty-six
+777;seven hundred seventy-seven
+888;eight hundred eighty-eight
+925;nine hundred twenty-five
+1000;one thousand
+1001;one thousand one
+1002;one thousand two
+1003;one thousand three
+1004;one thousand four
+1005;one thousand five
+1006;one thousand six
+1007;one thousand seven
+1008;one thousand eight
+1009;one thousand nine
+1010;one thousand ten
+1011;one thousand eleven
+1012;one thousand twelve
+1013;one thousand thirteen
+1014;one thousand fourteen
+1015;one thousand fifteen
+1016;one thousand sixteen
+1017;one thousand seventeen
+1018;one thousand eighteen
+1019;one thousand nineteen
+1020;one thousand twenty
+1021;one thousand twenty-one
+1022;one thousand twenty-two
+1023;one thousand twenty-three
+1024;one thousand twenty-four
+1025;one thousand twenty-five
+1026;one thousand twenty-six
+1027;one thousand twenty-seven
+1028;one thousand twenty-eight
+1029;one thousand twenty-nine
+1030;one thousand thirty
+1099;one thousand ninety-nine
+1100;one thousand one hundred
+1101;one thousand one hundred one
+1102;one thousand one hundred two
+1112;one thousand one hundred twelve
+1148;one thousand one hundred forty-eight
+1256;one thousand two hundred fifty-six
+1389;one thousand three hundred eighty-nine
+1491;one thousand four hundred ninety-one
+1533;one thousand five hundred thirty-three
+1666;one thousand six hundred sixty-six
+1777;one thousand seven hundred seventy-seven
+1888;one thousand eight hundred eighty-eight
+1925;one thousand nine hundred twenty-five
+2000;two thousand
+2001;two thousand one
+2002;two thousand two
+2003;two thousand three
+2004;two thousand four
+2005;two thousand five
+2006;two thousand six
+2007;two thousand seven
+2008;two thousand eight
+2009;two thousand nine
+2010;two thousand ten
+2011;two thousand eleven
+2012;two thousand twelve
+2013;two thousand thirteen
+2014;two thousand fourteen
+2015;two thousand fifteen
+2016;two thousand sixteen
+2017;two thousand seventeen
+2018;two thousand eighteen
+2019;two thousand nineteen
+2020;two thousand twenty
+2021;two thousand twenty-one
+2022;two thousand twenty-two
+2023;two thousand twenty-three
+2024;two thousand twenty-four
+2025;two thousand twenty-five
+2026;two thousand twenty-six
+2027;two thousand twenty-seven
+2028;two thousand twenty-eight
+2029;two thousand twenty-nine
+2030;two thousand thirty
+2099;two thousand ninety-nine
+2100;two thousand one hundred
+2101;two thousand one hundred one
+2102;two thousand one hundred two
+2112;two thousand one hundred twelve
+2148;two thousand one hundred forty-eight
+2256;two thousand two hundred fifty-six
+2389;two thousand three hundred eighty-nine
+2491;two thousand four hundred ninety-one
+2533;two thousand five hundred thirty-three
+2666;two thousand six hundred sixty-six
+2777;two thousand seven hundred seventy-seven
+2888;two thousand eight hundred eighty-eight
+2925;two thousand nine hundred twenty-five
+3000;three thousand
+4000;four thousand
+5000;five thousand
+6000;six thousand
+7000;seven thousand
+8000;eight thousand
+9000;nine thousand
+10000;ten thousand
+11000;eleven thousand
+12000;twelve thousand
+13000;thirteen thousand
+14000;fourteen thousand
+15000;fifteen thousand
+16000;sixteen thousand
+65534;sixty-five thousand five hundred thirty-four
+65535;sixty-five thousand five hundred thirty-five
+65536;sixty-five thousand five hundred thirty-six
+222223;two hundred twenty-two thousand two hundred twenty-three
+1000000;one million
+1000005;one million five
+1150042;one million one hundred fifty thousand forty-two
+2000000;two million
+2000001;two million one
+9000000;nine million
+18000000;eighteen million
+100000000;one hundred million
+1234567890;one billion two hundred thirty-four million five hundred sixty-seven thousand eight hundred ninety
+2147483646;two billion one hundred forty-seven million four hundred eighty-three thousand six hundred forty-six
+2147483647;two billion one hundred forty-seven million four hundred eighty-three thousand six hundred forty-seven
+-1;negative one
+-2;negative two
+-3;negative three
+-4;negative four
+-5;negative five
+-6;negative six
+-7;negative seven
+-8;negative eight
+-9;negative nine
+-10;negative ten
+-11;negative eleven
+-12;negative twelve
+-13;negative thirteen
+-14;negative fourteen
+-15;negative fifteen
+-16;negative sixteen
+-17;negative seventeen
+-18;negative eighteen
+-19;negative nineteen
+-20;negative twenty
+-21;negative twenty-one
+-22;negative twenty-two
+-23;negative twenty-three
+-24;negative twenty-four
+-25;negative twenty-five
+-26;negative twenty-six
+-27;negative twenty-seven
+-28;negative twenty-eight
+-29;negative twenty-nine
+-30;negative thirty
+-99;negative ninety-nine
+-100;negative one hundred
+-101;negative one hundred one
+-102;negative one hundred two
+-112;negative one hundred twelve
+-148;negative one hundred forty-eight
+-256;negative two hundred fifty-six
+-389;negative three hundred eighty-nine
+-491;negative four hundred ninety-one
+-533;negative five hundred thirty-three
+-666;negative six hundred sixty-six
+-777;negative seven hundred seventy-seven
+-888;negative eight hundred eighty-eight
+-925;negative nine hundred twenty-five
+-1000;negative one thousand
+-1001;negative one thousand one
+-1002;negative one thousand two
+-1003;negative one thousand three
+-1004;negative one thousand four
+-1005;negative one thousand five
+-1006;negative one thousand six
+-1007;negative one thousand seven
+-1008;negative one thousand eight
+-1009;negative one thousand nine
+-1010;negative one thousand ten
+-1011;negative one thousand eleven
+-1012;negative one thousand twelve
+-1013;negative one thousand thirteen
+-1014;negative one thousand fourteen
+-1015;negative one thousand fifteen
+-1016;negative one thousand sixteen
+-1017;negative one thousand seventeen
+-1018;negative one thousand eighteen
+-1019;negative one thousand nineteen
+-1020;negative one thousand twenty
+-1021;negative one thousand twenty-one
+-1022;negative one thousand twenty-two
+-1023;negative one thousand twenty-three
+-1024;negative one thousand twenty-four
+-1025;negative one thousand twenty-five
+-1026;negative one thousand twenty-six
+-1027;negative one thousand twenty-seven
+-1028;negative one thousand twenty-eight
+-1029;negative one thousand twenty-nine
+-1030;negative one thousand thirty
+-1099;negative one thousand ninety-nine
+-1100;negative one thousand one hundred
+-1101;negative one thousand one hundred one
+-1102;negative one thousand one hundred two
+-1112;negative one thousand one hundred twelve
+-1148;negative one thousand one hundred forty-eight
+-1256;negative one thousand two hundred fifty-six
+-1389;negative one thousand three hundred eighty-nine
+-1491;negative one thousand four hundred ninety-one
+-1533;negative one thousand five hundred thirty-three
+-1666;negative one thousand six hundred sixty-six
+-1777;negative one thousand seven hundred seventy-seven
+-1888;negative one thousand eight hundred eighty-eight
+-1925;negative one thousand nine hundred twenty-five
+-2000;negative two thousand
+-2001;negative two thousand one
+-2002;negative two thousand two
+-2003;negative two thousand three
+-2004;negative two thousand four
+-2005;negative two thousand five
+-2006;negative two thousand six
+-2007;negative two thousand seven
+-2008;negative two thousand eight
+-2009;negative two thousand nine
+-2010;negative two thousand ten
+-2011;negative two thousand eleven
+-2012;negative two thousand twelve
+-2013;negative two thousand thirteen
+-2014;negative two thousand fourteen
+-2015;negative two thousand fifteen
+-2016;negative two thousand sixteen
+-2017;negative two thousand seventeen
+-2018;negative two thousand eighteen
+-2019;negative two thousand nineteen
+-2020;negative two thousand twenty
+-2021;negative two thousand twenty-one
+-2022;negative two thousand twenty-two
+-2023;negative two thousand twenty-three
+-2024;negative two thousand twenty-four
+-2025;negative two thousand twenty-five
+-2026;negative two thousand twenty-six
+-2027;negative two thousand twenty-seven
+-2028;negative two thousand twenty-eight
+-2029;negative two thousand twenty-nine
+-2030;negative two thousand thirty
+-2099;negative two thousand ninety-nine
+-2100;negative two thousand one hundred
+-2101;negative two thousand one hundred one
+-2102;negative two thousand one hundred two
+-2112;negative two thousand one hundred twelve
+-2148;negative two thousand one hundred forty-eight
+-2256;negative two thousand two hundred fifty-six
+-2389;negative two thousand three hundred eighty-nine
+-2491;negative two thousand four hundred ninety-one
+-2533;negative two thousand five hundred thirty-three
+-2666;negative two thousand six hundred sixty-six
+-2777;negative two thousand seven hundred seventy-seven
+-2888;negative two thousand eight hundred eighty-eight
+-2925;negative two thousand nine hundred twenty-five
+-3000;negative three thousand
+-4000;negative four thousand
+-5000;negative five thousand
+-6000;negative six thousand
+-7000;negative seven thousand
+-8000;negative eight thousand
+-9000;negative nine thousand
+-10000;negative ten thousand
+-11000;negative eleven thousand
+-12000;negative twelve thousand
+-13000;negative thirteen thousand
+-14000;negative fourteen thousand
+-15000;negative fifteen thousand
+-16000;negative sixteen thousand
+-65534;negative sixty-five thousand five hundred thirty-four
+-65535;negative sixty-five thousand five hundred thirty-five
+-65536;negative sixty-five thousand five hundred thirty-six
+-222223;negative two hundred twenty-two thousand two hundred twenty-three
+-1000000;negative one million
+-1000005;negative one million five
+-1150042;negative one million one hundred fifty thousand forty-two
+-2000000;negative two million
+-2000001;negative two million one
+-9000000;negative nine million
+-18000000;negative eighteen million
+-100000000;negative one hundred million
+-1234567890;negative one billion two hundred thirty-four million five hundred sixty-seven thousand eight hundred ninety
+-2147483647;negative two billion one hundred forty-seven million four hundred eighty-three thousand six hundred forty-seven
+-2147483648;negative two billion one hundred forty-seven million four hundred eighty-three thousand six hundred forty-eight

@@ -1,0 +1,17 @@
+0;zero
+0.0;zero
+-0;negative zero
+0.456789;zero point four five six seven eight nine
+0.3;zero point three
+1.1;one point one
+1.200001;one point two zero zero zero zero one
+11.11;eleven point one one
+123.123;one hundred twenty-three point one two three
+12556.099;twelve thousand five hundred fifty-six point zero nine nine
+-12556.099;negative twelve thousand five hundred fifty-six point zero nine nine
+4465677;four million four hundred sixty-five thousand six hundred seventy-seven
+-4465677;negative four million four hundred sixty-five thousand six hundred seventy-seven
+326361290175879;three hundred twenty-six trillion three hundred sixty-one billion two hundred ninety million one hundred seventy-five thousand eight hundred seventy-nine
+-326361290175879;negative three hundred twenty-six trillion three hundred sixty-one billion two hundred ninety million one hundred seventy-five thousand eight hundred seventy-nine
+340000000000000000000000000000000000000;three hundred forty undecillion
+-340000000000000000000000000000000000000;negative three hundred forty undecillion

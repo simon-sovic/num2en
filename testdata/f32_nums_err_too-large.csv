@@ -1,0 +1,1 @@
+can't happen - value of float changes to (-)infinity before u128::MAX

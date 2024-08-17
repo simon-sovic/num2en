@@ -1,0 +1,256 @@
+0;zeroth
+1;first
+2;second
+3;third
+4;fourth
+5;fifth
+6;sixth
+7;seventh
+8;eighth
+9;ninth
+10;tenth
+11;eleventh
+12;twelfth
+13;thirteenth
+14;fourteenth
+15;fifteenth
+16;sixteenth
+17;seventeenth
+18;eighteenth
+19;nineteenth
+20;twentieth
+21;twenty-first
+22;twenty-second
+23;twenty-third
+24;twenty-fourth
+25;twenty-fifth
+26;twenty-sixth
+27;twenty-seventh
+28;twenty-eighth
+29;twenty-ninth
+30;thirtieth
+31;thirty-first
+32;thirty-second
+33;thirty-third
+34;thirty-fourth
+35;thirty-fifth
+36;thirty-sixth
+37;thirty-seventh
+38;thirty-eighth
+39;thirty-ninth
+40;fortieth
+41;forty-first
+42;forty-second
+43;forty-third
+44;forty-fourth
+45;forty-fifth
+46;forty-sixth
+47;forty-seventh
+48;forty-eighth
+49;forty-ninth
+50;fiftieth
+51;fifty-first
+52;fifty-second
+53;fifty-third
+54;fifty-fourth
+55;fifty-fifth
+56;fifty-sixth
+57;fifty-seventh
+58;fifty-eighth
+59;fifty-ninth
+60;sixtieth
+61;sixty-first
+62;sixty-second
+63;sixty-third
+64;sixty-fourth
+65;sixty-fifth
+66;sixty-sixth
+67;sixty-seventh
+68;sixty-eighth
+69;sixty-ninth
+70;seventieth
+71;seventy-first
+72;seventy-second
+73;seventy-third
+74;seventy-fourth
+75;seventy-fifth
+76;seventy-sixth
+77;seventy-seventh
+78;seventy-eighth
+79;seventy-ninth
+80;eightieth
+81;eighty-first
+82;eighty-second
+83;eighty-third
+84;eighty-fourth
+85;eighty-fifth
+86;eighty-sixth
+87;eighty-seventh
+88;eighty-eighth
+89;eighty-ninth
+90;ninetieth
+91;ninety-first
+92;ninety-second
+93;ninety-third
+94;ninety-fourth
+95;ninety-fifth
+96;ninety-sixth
+97;ninety-seventh
+98;ninety-eighth
+99;ninety-ninth
+100;one hundredth
+101;one hundred first
+102;one hundred second
+103;one hundred third
+104;one hundred fourth
+105;one hundred fifth
+106;one hundred sixth
+107;one hundred seventh
+108;one hundred eighth
+109;one hundred ninth
+110;one hundred tenth
+111;one hundred eleventh
+112;one hundred twelfth
+113;one hundred thirteenth
+114;one hundred fourteenth
+115;one hundred fifteenth
+116;one hundred sixteenth
+117;one hundred seventeenth
+118;one hundred eighteenth
+119;one hundred nineteenth
+120;one hundred twentieth
+121;one hundred twenty-first
+122;one hundred twenty-second
+123;one hundred twenty-third
+124;one hundred twenty-fourth
+125;one hundred twenty-fifth
+126;one hundred twenty-sixth
+127;one hundred twenty-seventh
+128;one hundred twenty-eighth
+129;one hundred twenty-ninth
+130;one hundred thirtieth
+131;one hundred thirty-first
+132;one hundred thirty-second
+133;one hundred thirty-third
+134;one hundred thirty-fourth
+135;one hundred thirty-fifth
+136;one hundred thirty-sixth
+137;one hundred thirty-seventh
+138;one hundred thirty-eighth
+139;one hundred thirty-ninth
+140;one hundred fortieth
+141;one hundred forty-first
+142;one hundred forty-second
+143;one hundred forty-third
+144;one hundred forty-fourth
+145;one hundred forty-fifth
+146;one hundred forty-sixth
+147;one hundred forty-seventh
+148;one hundred forty-eighth
+149;one hundred forty-ninth
+150;one hundred fiftieth
+151;one hundred fifty-first
+152;one hundred fifty-second
+153;one hundred fifty-third
+154;one hundred fifty-fourth
+155;one hundred fifty-fifth
+156;one hundred fifty-sixth
+157;one hundred fifty-seventh
+158;one hundred fifty-eighth
+159;one hundred fifty-ninth
+160;one hundred sixtieth
+161;one hundred sixty-first
+162;one hundred sixty-second
+163;one hundred sixty-third
+164;one hundred sixty-fourth
+165;one hundred sixty-fifth
+166;one hundred sixty-sixth
+167;one hundred sixty-seventh
+168;one hundred sixty-eighth
+169;one hundred sixty-ninth
+170;one hundred seventieth
+171;one hundred seventy-first
+172;one hundred seventy-second
+173;one hundred seventy-third
+174;one hundred seventy-fourth
+175;one hundred seventy-fifth
+176;one hundred seventy-sixth
+177;one hundred seventy-seventh
+178;one hundred seventy-eighth
+179;one hundred seventy-ninth
+180;one hundred eightieth
+181;one hundred eighty-first
+182;one hundred eighty-second
+183;one hundred eighty-third
+184;one hundred eighty-fourth
+185;one hundred eighty-fifth
+186;one hundred eighty-sixth
+187;one hundred eighty-seventh
+188;one hundred eighty-eighth
+189;one hundred eighty-ninth
+190;one hundred ninetieth
+191;one hundred ninety-first
+192;one hundred ninety-second
+193;one hundred ninety-third
+194;one hundred ninety-fourth
+195;one hundred ninety-fifth
+196;one hundred ninety-sixth
+197;one hundred ninety-seventh
+198;one hundred ninety-eighth
+199;one hundred ninety-ninth
+200;two hundredth
+201;two hundred first
+202;two hundred second
+203;two hundred third
+204;two hundred fourth
+205;two hundred fifth
+206;two hundred sixth
+207;two hundred seventh
+208;two hundred eighth
+209;two hundred ninth
+210;two hundred tenth
+211;two hundred eleventh
+212;two hundred twelfth
+213;two hundred thirteenth
+214;two hundred fourteenth
+215;two hundred fifteenth
+216;two hundred sixteenth
+217;two hundred seventeenth
+218;two hundred eighteenth
+219;two hundred nineteenth
+220;two hundred twentieth
+221;two hundred twenty-first
+222;two hundred twenty-second
+223;two hundred twenty-third
+224;two hundred twenty-fourth
+225;two hundred twenty-fifth
+226;two hundred twenty-sixth
+227;two hundred twenty-seventh
+228;two hundred twenty-eighth
+229;two hundred twenty-ninth
+230;two hundred thirtieth
+231;two hundred thirty-first
+232;two hundred thirty-second
+233;two hundred thirty-third
+234;two hundred thirty-fourth
+235;two hundred thirty-fifth
+236;two hundred thirty-sixth
+237;two hundred thirty-seventh
+238;two hundred thirty-eighth
+239;two hundred thirty-ninth
+240;two hundred fortieth
+241;two hundred forty-first
+242;two hundred forty-second
+243;two hundred forty-third
+244;two hundred forty-fourth
+245;two hundred forty-fifth
+246;two hundred forty-sixth
+247;two hundred forty-seventh
+248;two hundred forty-eighth
+249;two hundred forty-ninth
+250;two hundred fiftieth
+251;two hundred fifty-first
+252;two hundred fifty-second
+253;two hundred fifty-third
+254;two hundred fifty-fourth
+255;two hundred fifty-fifth
