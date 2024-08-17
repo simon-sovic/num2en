@@ -8,6 +8,6 @@ categories = ["text-processing", "value-formatting"]
 authors = ["Simon Sovič <open-source@strigido.com>"]
 license = "MIT"
 readme = "README.md"
-repository = "TODO"
+repository = "https://github.com/simon-sovic/num2en"
 rust-version = "1.56.1" # determined by cargo-msrv
 exclude = ["testdata"]

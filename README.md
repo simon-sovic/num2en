@@ -60,4 +60,4 @@ assert_eq!( str_digits_to_words("001247"), Ok("zero zero one two four seven".to_
 
 
 This crate has been thoroughly tested, but if you find any function working incorrectly
-for some input, please open an issue on Github.
+for some input, please [open an issue on Github](https://github.com/simon-sovic/num2en/issues/new).
