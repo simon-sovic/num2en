@@ -3,11 +3,6 @@ This is a crate with functions for converting any ***integer*** or ***decimal***
 2<sup>128</sup> (about 340 undecillion) to words.
 <br> It supports converting to ***cardinal*** and ***ordinal*** numbers.
 
-## Installation
-```cmd
-cargo add num2en
-```
-
 # Functions
 To convert any integer `n` of type `X` to ***cardinal*** number words, call `X_to_words(n)`.
 
