@@ -7,7 +7,6 @@ This is a crate with functions for converting any integer or decimal number belo
 To convert any integer `n` of type `X` to ***cardinal*** number words, call `X_to_words(n)`.
 
 ```rust
-use num2en::*;
 assert_eq!(    u8_to_words(1),    "one");
 assert_eq!(    i8_to_words(2),    "two");
 assert_eq!(   u16_to_words(3),    "three");
@@ -26,7 +25,6 @@ To convert any unsigned integer `n` of type `X` to ***ordinal*** number words, c
 `X_to_ord_words(n)`.
 
 ```rust
-# use num2en::*;
 assert_eq!(    u8_to_ord_words(1),    "first");
 assert_eq!(   u16_to_ord_words(3),    "third");
 assert_eq!(   u32_to_ord_words(5),    "fifth");
@@ -38,23 +36,19 @@ assert_eq!( usize_to_ord_words(2012), "two thousand twelfth");
 To convert any float `f` of type `Y` to number words, call `Y_to_words(f)`.
 
 ```rust
-# use num2en::*;
 assert_eq!(  f32_to_words(15.2),  Ok("fifteen point two".to_string()));
 assert_eq!(  f64_to_words(42.42), Ok("forty-two point four two".to_string()));
 ```
 
-To convert a string representation of a number to number words, call [`str_to_words`]`(&string)`.
+To convert a string representation of a number to number words, call `str_to_words`.
 
 ```rust
-# use num2en::*;
-assert_eq!( str_to_words("123.456"),
-             Ok("one hundred twenty-three point four five six".to_string()) );
+assert_eq!( str_to_words("123.456"), Ok("one hundred twenty-three point four five six".to_string()) );
 ```
 
-To spell all digits in a string of digits individually, call [`str_digits_to_words`]`(&digits)`.
+To spell all digits in a string of digits individually, call `str_digits_to_words`.
 
 ```rust
-# use num2en::*;
 assert_eq!( str_digits_to_words("001247"), Ok("zero zero one two four seven".to_string()) );
 ```
 
