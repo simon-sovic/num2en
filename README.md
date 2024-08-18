@@ -8,6 +8,8 @@ This is a crate with functions for converting any ***integer*** or ***decimal***
 cargo add num2en
 ```
 
+Full documentation can be found on [docs.rs/num2en](https://docs.rs/num2en).
+
 # Functions
 To convert any integer `n` of type `X` to ***cardinal*** number words, call `X_to_words(n)`.
 
